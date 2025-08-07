@@ -1,2 +1,2 @@
 # Collaborator_task
-Project for collaboration task of class
+Project for collaboration task of class of BridhgeLabs 
